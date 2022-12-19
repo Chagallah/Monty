@@ -1,0 +1,1 @@
+The goal of this projects is to create an interpreter for Monty ByteCode files.
